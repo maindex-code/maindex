@@ -28,7 +28,6 @@
 ## Learn more about Maindex  🧐
 
 - [Overview](#overview-)
-- [Install](#install)
 - [Get started](#get-started-)
 - [Build complex software](#build-complex-software-with-llms-)
 - [Why Maindex?](#why-maindex-)
